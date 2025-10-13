@@ -19,7 +19,7 @@
 - 🌱 Learning: **Spring Boot**, **Docker**, **AWS**, and **Microservices**
 - 💬 Ask me about: **Java | React | REST APIs | SQL | DSA**
 - 💡 Interested in: **AI + Web Integration**, **Career Tech Tools**, and **Cloud Deployment**
-- 📫 Reach me at: [ankit.kolli@gmail.com](mailto:ankit.kolli@gmail.com)
+- 📫 Reach me at: [kolliankit90@gmail.com](mailto:kolliankit90@gmail.com)
 - ⚡ Fun fact: *I love turning ideas into working projects!*
 
 ---
@@ -68,7 +68,7 @@
 
 ### 📚 Certifications & Achievements
 
-- 🥇 **Intern – ISRO**, Software Development (Web Automation)
+- 🥇 **Intern – ISRO**, - Hands-on Expericence in VHDL 
 - 🎓 **Forage Python Internship** – Hands-on data & automation tasks
 - 🧩 Completed multiple Java + Full Stack development projects
 - 🧠 Consistent **DSA problem solver on LeetCode**
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-kolli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:ankit.kolli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="kolliankit90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Ankit7-bit"><img src="https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge"/></a>
 </p>
 
