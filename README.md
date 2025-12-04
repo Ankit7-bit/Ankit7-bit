@@ -15,7 +15,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **ElevateU – Smart Career Companion**
 - 🌱 Learning: **Spring Boot**, **Docker**, **AWS**, and **Microservices**
 - 💬 Ask me about: **Java | React | REST APIs | SQL | DSA**
 - 💡 Interested in: **AI + Web Integration**, **Career Tech Tools**, and **Cloud Deployment**
@@ -60,18 +59,15 @@
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
-| 🎯 **ElevateU** | AI-powered career assistant with resume builder and job recommendations. | Spring Boot, React, MySQL | [View Repo](https://github.com/Ankit7-bit/ElevateU) |
-| 🏫 **Student Registration System** | Admin + Student dashboard for managing academic records. | React, Spring Boot, SQL | [View Repo](https://github.com/Ankit7-bit/student-reg-system) |
-| 🧠 **Smart Communication AI Tool** | Mobile AI that helps improve communication skills. | Java, OpenAI API | [View Repo](https://github.com/Ankit7-bit/smart-ai-tool) |
+| 🏫 **	Tasktime – Productivity Web Application** | HTML, CSS, JavaScript, React.js|  [View Repo](//ankit7-bit.github.io/Tasktime/) |
+| 🧠 **Personal Portfolio** | HTML, CSS, JavaScript | [View Repo](https://github.com/Ankit7-bit/smart-ai-tool) |
 
 ---
 
 ### 📚 Certifications & Achievements
 
 - 🥇 **Intern – ISRO**, - Hands-on Expericence in VHDL 
-- 🎓 **Forage Python Internship** – Hands-on data & automation tasks
 - 🧩 Completed multiple Java + Full Stack development projects
-- 🧠 Consistent **DSA problem solver on LeetCode**
 
 ---
 
